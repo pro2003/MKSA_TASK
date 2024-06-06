@@ -52,7 +52,7 @@ const projectList = [
     title: "Weather Estimator",
     description:
       "Helps to estimate the day to day weather.",
-    url: "pro2003.github.io/Weather-Estimator/",
+    url: "https://pro2003.github.io/Weather-Estimator/",
   },
 ];
 
