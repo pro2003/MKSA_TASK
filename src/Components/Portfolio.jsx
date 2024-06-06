@@ -34,19 +34,19 @@ const projectList = [
     title: "To-Do List website",
     description:
       "Helps maintain your day to day task.",
-    url: "pro2003.github.io/todo-list/",
+    url: "https://pro2003.github.io/todo-list/",
   },
   {
     title: "Resume Builder",
     description:
       "A very user-friendly website that helps you to build resume within seconds.",
-    url: "pro2003.github.io/resume-builder/",
+    url: "https://pro2003.github.io/resume-builder/",
   },
   {
     title: "My Resume",
     description:
       "Created my resume . Includes my experience and design abilities.",
-    url: "pro2003.github.io/my-portfolio/",
+    url: "https://pro2003.github.io/my-portfolio/",
   },
   {
     title: "Weather Estimator",
